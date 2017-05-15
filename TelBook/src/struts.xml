@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+    <package name="person" namespace="/" extends="struts-default">
+        <action name="findPerson" class="action.PersonAction" method="findPerson"/>
+        <action name="modifyPerson" class="action.PersonAction" method="modifyPerson"/>
+        <action name="addPerson" class="action.PersonAction" method="addPerson"/>
+        <action name="removePerson" class="action.PersonAction" method="removePerson"/>
+    </package>
+</struts>

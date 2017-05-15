@@ -1,0 +1,28 @@
+#tb {
+    background-color: antiquewhite;
+    margin: auto;
+}
+
+th {
+    text-align: center;
+    padding: 3px 50px;
+}
+
+tr {
+    text-align: center;
+    height: 30px;
+}
+
+#frm {
+    width: 400px;
+    background-color: lightcyan;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.tt{
+    line-height: 40px;
+    width:100px;
+    text-align: right;
+    padding-right: 30px;
+}
