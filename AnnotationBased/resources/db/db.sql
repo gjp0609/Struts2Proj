@@ -1,0 +1,2 @@
+SELECT *
+FROM telbook.person
