@@ -1,2 +1,2 @@
 SELECT *
-FROM user.user
+FROM user
